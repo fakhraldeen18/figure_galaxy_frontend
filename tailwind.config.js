@@ -70,6 +70,9 @@ module.exports = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out"
+      },
+      backgroundImage: {
+        "hero-pattern": "url('https://s4.aconvert.com/convert/p3r68-cdx67/az0pw-7559x.jpg')"
       }
     }
   },
